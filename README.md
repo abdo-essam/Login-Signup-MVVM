@@ -61,6 +61,9 @@ Google says we should use it, but it also says that if we have some other patter
 following the common architectural principles then you can keep using it.
 This diagram explains the MVVM architecture.
  
+<div align="center">
+  <img src="https://files.codingninjas.in/article_images/android-mvvm-model-view-viewmodel-architecture-0-1647677770.jpg" width="600" height="300"/>
+</div>
 
 First, we have the Activity or Fragment classes, and it is basically the UI of our application.
 To display data, we will use the Data Binding with the help of View Model.
