@@ -60,10 +60,8 @@ But the pattern it is recommending is popular as MVVM in the developer community
 Google says we should use it, but it also says that if we have some other pattern that is
 following the common architectural principles then you can keep using it.
 This diagram explains the MVVM architecture.
- 
-<div align="center">
-  <img src="https://files.codingninjas.in/article_images/android-mvvm-model-view-viewmodel-architecture-0-1647677770.jpg" width="600" height="300"/>
-</div>
+
+![image](https://user-images.githubusercontent.com/92235360/219127171-c1d79ed7-c8a6-491f-97ec-4c8d69896db6.png)
 
 First, we have the Activity or Fragment classes, and it is basically the UI of our application.
 To display data, we will use the Data Binding with the help of View Model.
