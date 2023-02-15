@@ -1,5 +1,5 @@
 # Login-Signup-MVVM
-Welcome friends, I’m Abdo Essam Software Engineer now we will talk about MVVM using implementation for Login and Signup Screens in Android app  
+Welcome friends, I’m Abdo Essam Software Engineer now we will talk about MVVM and implement it in Android Development using Kotlin 
 
 Creating an app is very easy, but writing a structured code, that is maintainable for the long term and is also testable is not easy.
 To write a code that is maintainable, understandable and testable, we follow design patterns.
